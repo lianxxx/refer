@@ -27,7 +27,8 @@ showMask   - show mask of the referred object given ref
 import sys
 import os.path as osp
 import json
-import cPickle as pickle
+# import cPickle as pickle
+import pickle
 import time
 import itertools
 import skimage.io as io
